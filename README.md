@@ -1,3 +1,5 @@
+![Revealing the Hidden Hyperspectrum with Artificial Neurons](banner.png)
+
 # Overview
 
 In this workshop, students will take hyperspectral images and construct software and image processing tools that will expand the perceptible visual windows in humans. The subject of hyperspectral photography can be in pursuit of either artistic or scientific inquiries. Basic understanding of Python programming, image processing, convolutional neural networks, cloud computing and the physics of electromagnetic waves will be involved in the projects.

@@ -2,7 +2,7 @@ style: is-light
 items:
   - title: Brent Smith
     subtitle: Arizona State University
-    photo: https://via.placeholder.com/256x256
+    photo: ../assets/images/brent.png
     description: >
       A tagline about the instructor.
       
@@ -11,7 +11,7 @@ items:
     call_to_action_link: mailto:bsmith18@asu.edu
   - title: Rodolfo Ferro
     subtitle: Centro de Investigación en Matemáticas
-    photo: https://rodolfoferro.xyz/assets/images/profile.jpg
+    photo: ../assets/images/rodolfo.jpg
     description: >
       A tagline about the instructor.
       

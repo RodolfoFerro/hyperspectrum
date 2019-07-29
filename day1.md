@@ -2,12 +2,17 @@
 title: "Day 1:"
 subtitle: >
   - Introduction to Physics of Light and Image Sensors <br>
-  - Hyperspectral Cameras
+  - Hyperspectral Cameras <br>
+  - Introduction to Python
 layout: page
 show_sidebar: false
 hide_footer: true
 menubar: site_menu
 ---
+
+# Introduction to Python
+
+In this section we will learn the basics of Python and how to work with matrices.
 
 # Title of content
 

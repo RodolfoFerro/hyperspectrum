@@ -10,31 +10,36 @@ hide_footer: true
 menubar: site_menu
 ---
 
+# Introduction to Physics of Light and Image Sensors
+
+Content coming soon...
+
+# Hyperspectral Cameras
+
+Content coming soon...
+
+
 # Introduction to Python
 
-In this section we will learn the basics of Python and how to work with matrices.
+In this section we will learn the basics of Python. We have prepared a notebook containing details, examples, and exercises about the following topics:
 
-# Title of content
+- What is Python?
+- *Variables* – Types, declarations, and operations
+- *Flow control* – Conditionals and loops
+- Advanced objects – *Lists* and *dictionaries*
+- Packing functionality – *Functions*
 
-This is a demo page showing some demo text.
+## What is Python?
 
-We can also add some code snipets:
-```python
-import numpy as np
-import matplotlib.pyplot as plt
-plt.style.use('ggplot')
+<center>
+    <img width="50%" src="https://www.python.org/static/community_logos/python-logo-generic.svg">
+</center>
 
-x = np.linspace(-50, 50, 1000)
-y = np.sin(x)
+Python is an **interpreted** programming language, which means that an _interpreter_ runs and executes your code line by line instead compiling it. Python has an elegant syntax that forces you to **indent your code to build code blocks**, so Python does not use `{ }` for code blocks. It is not common to use  semicolons in Python ( `;` ) at the end of any sentece. Another cool thing about Python is that you do not need to declare variables, you only define them, and it happens that Python is **dynamically typed**.
 
-plt.figure(figsize=(10, 4))
-plt.plot(x, y)
-plt.savefig("plt_example.png")
-```
-<br>
-
-And display images:
-
-![plt_example.png](../assets/images/plt_example.png)
-
-We can use these sections to attach any material (it can be a Google Colab notebook or whaterver we want).
+<center><br>
+  <h4>Run the code:</h4>
+  <a href="https://colab.research.google.com/github/RodolfoFerro/hyperspectrum/blob/master/Day%201/Intro_to_Python.ipynb" target="_parent">
+    <img width="30%" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+</center>

@@ -5,8 +5,8 @@
   dropdown:
     - name: Day 1
       link: /day1/
-#     - name: Day 2
-#       link: /day2/
+    - name: Day 2
+      link: /day2/
 #     - name: Day 3
 #       link: /day3/
 #     - name: Day 4

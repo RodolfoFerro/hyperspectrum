@@ -12,12 +12,19 @@ menubar: site_menu
 
 # Introduction to Physics of Light and Image Sensors
 
-Content coming soon...
+You can download the lecture slides in the following link.<br>
+<center>
+  <h4>Get the slides:</h4>
+  <a href="/assets/docs/CdeC-day1-part1.pptx" class="button is-primary is-normal is-outlined is-fullwidth">Download</a>
+</center>
 
 # Hyperspectral Cameras
 
-Content coming soon...
-
+You can download the lecture slides in the following link.<br>
+<center>
+  <h4>Get the slides:</h4>
+  <a href="/assets/docs/CdeC-day1-part2.pptx" class="button is-primary is-normal is-outlined is-fullwidth">Download</a>
+</center>
 
 # Introduction to Python
 

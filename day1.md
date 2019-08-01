@@ -46,7 +46,7 @@ Python is an **interpreted** programming language, which means that an _interpre
 
 <center><br>
   <h4>Run the code:</h4>
-  <a href="https://colab.research.google.com/github/RodolfoFerro/hyperspectrum/blob/master/Day%201/Intro_to_Python.ipynb" target="_parent">
+  <a href="https://colab.research.google.com/github/RodolfoFerro/hyperspectrum/blob/master/Day%201/Intro_to_Python.ipynb" target="_blank">
     <img width="30%" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
 </center>

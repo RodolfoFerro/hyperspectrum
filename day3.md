@@ -32,7 +32,7 @@ In this section we are going to learn more about image processes, what a convlot
 
 <center><br>
   <h4>Run the code:</h4>
-  <a href="https://colab.research.google.com/github/RodolfoFerro/hyperspectrum/blob/master/Day%202/Convolutional%20Neural%20Network.ipynb" target="_blank">
+  <a href="https://colab.research.google.com/github/RodolfoFerro/hyperspectrum/blob/master/Day%203/Convolutional%20Neural%20Network.ipynb" target="_blank">
     <img width="30%" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
 </center>

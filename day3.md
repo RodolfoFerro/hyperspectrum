@@ -21,6 +21,15 @@ Today we had a walk to the [Pipila](https://es.wikipedia.org/wiki/El_P%C3%ADpila
   <a href="https://drive.google.com/drive/folders/1NUvwfXn9DbE2s1GAMwKVE6oouqgyR5TY?usp=sharing" class="button is-primary is-normal is-outlined is-fullwidth" target="_blank">Access the Google Drive folder</a>
 </center>
 
+Now, we are able to process the input images using digital image processing techniques. To learn how to do that, we will use the following notebook.
+
+<center><br>
+  <h4>Run the code:</h4>
+  <a href="https://colab.research.google.com/github/RodolfoFerro/hyperspectrum/blob/master/Day%203/Process_selfies.ipynb" target="_blank">
+    <img width="30%" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+</center>
+
 
 # Convolutional neural networks
 

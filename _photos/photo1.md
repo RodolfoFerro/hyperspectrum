@@ -3,7 +3,7 @@ title: Clubes de Ciencia México
 subtitle: A science network in México
 product_code: 07/31/2019
 layout: product
-image: /assets/images/cdec19_blue.png
+image: /hyperspectrum/assets/images/cdec19_blue.png
 price: Rodolfo Ferro
 show_sidebar: false
 hide_footer: true

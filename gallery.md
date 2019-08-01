@@ -7,4 +7,4 @@ hide_footer: true
 sort: product_code
 ---
 
-Example text to describe the gallery section.
+The images were processed with the power of Python, using neural networks, OpenCV, and Google Colab.

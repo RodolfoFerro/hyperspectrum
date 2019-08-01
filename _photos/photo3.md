@@ -3,7 +3,7 @@ title: Picture name
 subtitle: Picture tagline here
 product_code: 08/01/2019
 layout: product
-image: /assets/images/misa2.jpg
+image: /hyperspectrum/assets/images/misa2.jpg
 price: Author's name
 show_sidebar: false
 hide_footer: true

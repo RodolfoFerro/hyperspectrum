@@ -1,9 +1,9 @@
 ---
-title: Título
-subtitle: Subtítulo
+title: Estefafafanía
+subtitle: La chida
 product_code: 08/01/2019
 layout: product
-image: /hyperspectrum/assets/images/foto12.png
+image: /hyperspectrum/assets/images/foto13.png
 price: Cristopher Alan
 show_sidebar: false
 hide_footer: true

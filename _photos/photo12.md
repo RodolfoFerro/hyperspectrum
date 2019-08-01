@@ -1,6 +1,6 @@
 ---
-title: Título
-subtitle: Subtítulo
+title: BeeHack
+subtitle: BeeHack in Clubes
 product_code: 08/01/2019
 layout: product
 image: /hyperspectrum/assets/images/foto12.png

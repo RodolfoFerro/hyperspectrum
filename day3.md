@@ -19,7 +19,7 @@ Today we had a walk to the [Pipila](https://es.wikipedia.org/wiki/El_P%C3%ADpila
 <center>
   <h4>Get access to the taken images:</h4>
   <a href="https://drive.google.com/drive/folders/1NUvwfXn9DbE2s1GAMwKVE6oouqgyR5TY?usp=sharing" class="button is-primary is-normal is-outlined is-fullwidth" target="_blank">Access the Google Drive folder</a>
-</center>
+</center><br>
 
 Now, we are able to process the input images using digital image processing techniques. To learn how to do that, we will use the following notebook.
 

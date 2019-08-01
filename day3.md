@@ -13,12 +13,12 @@ menubar: site_menu
 
 Today we had a walk to the [Pipila](https://es.wikipedia.org/wiki/El_P%C3%ADpila) monument at Guanajuato city. Once we got there, we took a set of nice pictures to apply our image processes and create awesome images.
 
-<!-- Here's an example:
-  ![DEMO IMG](/assets/images/TCA00005.TIF) -->
+##### Here's an example: 
+  ![DEMO IMG](/assets/images/cdec19_blue.png)
 
 <center>
   <h4>Get access to the taken images:</h4>
-  <a href="https://drive.google.com/drive/folders/1NUvwfXn9DbE2s1GAMwKVE6oouqgyR5TY?usp=sharing" class="button is-primary is-normal is-outlined is-fullwidth">Access the Google Drive folder</a>
+  <a href="https://drive.google.com/drive/folders/1NUvwfXn9DbE2s1GAMwKVE6oouqgyR5TY?usp=sharing" class="button is-primary is-normal is-outlined is-fullwidth" target="_blank">Access the Google Drive folder</a>
 </center>
 
 

@@ -15,7 +15,7 @@ menubar: site_menu
 You can download the lecture slides in the following link.<br>
 <center>
   <h4>Get the slides:</h4>
-  <a href="/assets/docs/CdeC-day1-part1.pptx" class="button is-primary is-normal is-outlined is-fullwidth">Download</a>
+  <a href="/hyperspectrum/assets/docs/CdeC-day1-part1.pptx" class="button is-primary is-normal is-outlined is-fullwidth">Download</a>
 </center>
 
 # Hyperspectral Cameras
@@ -23,7 +23,7 @@ You can download the lecture slides in the following link.<br>
 You can download the lecture slides in the following link.<br>
 <center>
   <h4>Get the slides:</h4>
-  <a href="/assets/docs/CdeC-day1-part2.pptx" class="button is-primary is-normal is-outlined is-fullwidth">Download</a>
+  <a href="/hyperspectrum/assets/docs/CdeC-day1-part2.pptx" class="button is-primary is-normal is-outlined is-fullwidth">Download</a>
 </center>
 
 # Introduction to Python

@@ -1,18 +1,18 @@
 ---
-title: Picture name
-subtitle: Picture tagline here
+title: Aquacielo
+subtitle: Julie
 product_code: 08/01/2019
 layout: product
-image: /hyperspectrum/assets/images/foto6.jpg
-price: Author's name
+image: /hyperspectrum/assets/images/foto10.jpg
+price: Juliette Ramírez
 show_sidebar: false
 hide_footer: true
 features:
-    - label: A tagline of the place
+    - label: Monumento al Pípila
       icon: fa-map-pin
-    - label: A tagline of the landscape
+    - label: <i>Desde el mirador...</i>
       icon: fa-image
-    - label: A tagline of the author
+    - label: <a href="https://www.instagram.com/julie4615/">@julie4615</a>
       icon: fa-user-astronaut
     - label: You can click the image to open in full size
       icon: fa-mouse-pointer

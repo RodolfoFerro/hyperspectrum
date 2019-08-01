@@ -1,18 +1,18 @@
 ---
-title: Picture name
-subtitle: Picture tagline here
+title: Rojizo
+subtitle: Jardín Unión
 product_code: 08/01/2019
 layout: product
-image: /hyperspectrum/assets/images/foto6.jpg
-price: Author's name
+image: /hyperspectrum/assets/images/foto9.jpg
+price: Juliette Ramírez
 show_sidebar: false
 hide_footer: true
 features:
-    - label: A tagline of the place
+    - label: Monumento al Pípila
       icon: fa-map-pin
-    - label: A tagline of the landscape
+    - label: <i>Desde el mirador...</i>
       icon: fa-image
-    - label: A tagline of the author
+    - label: Juliette Ramírez
       icon: fa-user-astronaut
     - label: You can click the image to open in full size
       icon: fa-mouse-pointer

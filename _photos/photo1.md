@@ -8,17 +8,17 @@ price: Rodolfo Ferro
 show_sidebar: false
 hide_footer: true
 features:
-    - label: University of Guanajuato <i>Escalinatas</i>
+    - label: University of Guanajuato
       icon: fa-map-pin
-    - label: A tagline of the landscape
+    - label: The incredible <i>escalinatas</i>
       icon: fa-image
-    - label: A tagline of the author
+    - label: <a href="https://www.instagram.com/rodo_ferro/">@rodo_ferro</a>
       icon: fa-user-astronaut
-    - label: You click the image to open in full size
+    - label: You can click the image to open in full size
       icon: fa-mouse-pointer
 ---
 
-This is the content about the picture.
+This is the official Clubes de Ciencia 2019 photo at the University of Guanajuato.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
 

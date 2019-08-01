@@ -1,18 +1,18 @@
 ---
-title: Picture name
-subtitle: Picture tagline here
+title: Título
+subtitle: Subtítulo
 product_code: 08/01/2019
 layout: product
-image: /hyperspectrum/assets/images/foto6.jpg
-price: Author's name
+image: /hyperspectrum/assets/images/foto12.png
+price: Cristopher Alan
 show_sidebar: false
 hide_footer: true
 features:
-    - label: A tagline of the place
+    - label: Monumento al Pípila
       icon: fa-map-pin
-    - label: A tagline of the landscape
+    - label: <i>Desde el mirador...</i>
       icon: fa-image
-    - label: A tagline of the author
+    - label: <a href="https://www.instagram.com/crispleonm/">@crispleonm</a>
       icon: fa-user-astronaut
     - label: You can click the image to open in full size
       icon: fa-mouse-pointer

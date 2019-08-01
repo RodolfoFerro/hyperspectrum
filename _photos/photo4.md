@@ -1,25 +1,22 @@
 ---
-title: Picture name
-subtitle: Picture tagline here
+title: Jardín Unión
+subtitle: Lo que no vemos
 product_code: 08/01/2019
 layout: product
 image: /hyperspectrum/assets/images/foto4.jpg
-price: Author's name
+price: Josseline Bernal
 show_sidebar: false
 hide_footer: true
 features:
-    - label: A tagline of the place
+    - label: Jardín Unión (desde el cielo)
       icon: fa-map-pin
-    - label: A tagline of the landscape
+    - label: Dónde las callejoneadas comienzan
       icon: fa-image
-    - label: A tagline of the author
+    - label: <a href="https://www.instagram.com/josseline_ba/">@josseline_ba</a>
       icon: fa-user-astronaut
-    - label: You click the image to open in full size
+    - label: You can click the image to open in full size
       icon: fa-mouse-pointer
 ---
 
-This is the content about the picture.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
-
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+Es una fotografía realizada desde el mirador, debajo del Pípila, esta imagen fue procesada destacando aquel espectro no visible para el ojo humano, de uno de los lugares más concurridos de la ciudad de Guanajuato.

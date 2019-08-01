@@ -1,9 +1,9 @@
 ---
 title: Picture name
 subtitle: Picture tagline here
-product_code: 20/07/2019
+product_code: 08/01/2019
 layout: product
-image: https://via.placeholder.com/1280x960
+image: /assets/images/misa2.jpg
 price: Author's name
 show_sidebar: false
 hide_footer: true

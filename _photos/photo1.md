@@ -1,14 +1,14 @@
 ---
-title: Picture name
-subtitle: Picture tagline here
-product_code: 23/07/2019
+title: Clubes de Ciencia México
+subtitle: A science network in México
+product_code: 07/31/2019
 layout: product
-image: https://via.placeholder.com/1280x960
-price: Author's name
+image: /assets/images/cdec19_blue.png
+price: Rodolfo Ferro
 show_sidebar: false
 hide_footer: true
 features:
-    - label: A tagline of the place
+    - label: University of Guanajuato <i>Escalinatas</i>
       icon: fa-map-pin
     - label: A tagline of the landscape
       icon: fa-image

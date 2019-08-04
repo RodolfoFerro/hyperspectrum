@@ -1,34 +1,23 @@
 ---
 title: "Day 5:"
 subtitle: >
-  - Image processing applications: Processing on embedded devices
+  - Processing Acquired Data II: Generating Final Images
 layout: page
 show_sidebar: false
 hide_footer: true
 menubar: site_menu
 ---
 
-# Title of content
+# Processing Acquired Data II: Generating Final Images
 
-This is a demo page showing some demo text.
+Our process is still in progress, since we're building an architecture for a convolutional neural network (an [autoencoder](https://www.youtube.com/watch?v=Rdpbnd0pCiI)).
 
-We can also add some code snipets:
-```python
-import numpy as np
-import matplotlib.pyplot as plt
-plt.style.use('ggplot')
+Keep the track about this process, since we will get news soon!
 
-x = np.linspace(-50, 50, 1000)
-y = np.sin(x)
+Meanwhile, we invite you to visit our [gallery section](/gallery).
+ 
+![Clubes de Ciencia México 2019](/assets/images/cdec19_blue.png)
 
-plt.figure(figsize=(10, 4))
-plt.plot(x, y)
-plt.savefig("plt_example.png")
-```
-<br>
-
-And display images:
-
-![plt_example.png](../assets/images/plt_example.png)
-
-We can use these sections to attach any material (it can be a Google Colab notebook or whaterver we want).
+<center>
+  <a href="/gallery" class="button is-primary is-large is-success is-fullwidth"> >> Go to gallery</a>
+</center><br>

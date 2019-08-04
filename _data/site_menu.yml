@@ -13,9 +13,9 @@
           link: /day2/
         - name: Day 3
           link: /day3/
-    #     - name: Day 4
-    #       link: /day4/
-    #     - name: Day 5
-    #       link: /day5/
+        - name: Day 4
+          link: /day4/
+        - name: Day 5
+          link: /day5/
     - name: Gallery
       link: /gallery/

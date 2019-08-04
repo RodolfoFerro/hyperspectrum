@@ -8,6 +8,7 @@ layout: page
 show_sidebar: false
 hide_footer: true
 menubar: site_menu
+tabs: day1_tabs
 ---
 
 # Introduction to Physics of Light and Image Sensors

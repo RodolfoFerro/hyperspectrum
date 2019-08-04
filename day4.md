@@ -1,35 +1,26 @@
 ---
 title: "Day 4:"
 subtitle: >
-  - Processing Acquired Data I: Data Manipulation <br>
-  - Processing Acquired Data II: Generating Final Images
+  - Processing Acquired Data I: Data Manipulation
 layout: page
 show_sidebar: false
 hide_footer: true
 menubar: site_menu
 ---
 
-# Title of content
+# Processing Acquired Data I: Data Manipulation
 
-This is a demo page showing some demo text.
+We packed image functions to generate a set of images automatically processed with a loop.
 
-We can also add some code snipets:
-```python
-import numpy as np
-import matplotlib.pyplot as plt
-plt.style.use('ggplot')
+##### Here's an example: 
+  ![DEMO IMG](/assets/images/foto9.jpg)
 
-x = np.linspace(-50, 50, 1000)
-y = np.sin(x)
 
-plt.figure(figsize=(10, 4))
-plt.plot(x, y)
-plt.savefig("plt_example.png")
-```
-<br>
+# Poster session
 
-And display images:
+During the posters session in the afternoon, we captured new pictures using the hyperspectral camera.
 
-![plt_example.png](../assets/images/plt_example.png)
-
-We can use these sections to attach any material (it can be a Google Colab notebook or whaterver we want).
+<center>
+  <h4>Get access to the taken images:</h4>
+  <a href="https://drive.google.com/drive/folders/1jFyR5ZJNmC-unjSFPAKmLj_lbDbMlTKk?usp=sharing" class="button is-primary is-normal is-outlined is-fullwidth" target="_blank">Access the Google Drive folder</a>
+</center><br>
